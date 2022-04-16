@@ -23,7 +23,9 @@ Users of this data package should cite it as follows:
 
 Users should also include citation to the relevant initial publication of these data, based on which samples and/or sources are used.  If in doubt, users should cite all of the following:
 
-[ADD REFERENCES]
+* [Burger, R.L., E. Tsurumi, M.T. Boulanger, and M.D. Glascock. Sayrosa, a minor obsidian source in the Puna of Arequipa. *Ñawpa Pacha*. DOI: 10.1080/00776297.2022.2029157](https://doi.org/10.1080/00776297.2022.2029157)
+
+[ADD ADDITIONAL REFERENCES]
 
 ## Authors
 
@@ -44,7 +46,7 @@ mboulanger@smu.edu
 
 ## License
 
-This project is available for free under a [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license](https://creativecommons.org/licenses/by-nc/4.0/).
+This project is available for free under a [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license](https://creativecommons.org/licenses/by-nc/4.0/).  See the LICENSE file for details
 
 ## Acknowledgments
 
