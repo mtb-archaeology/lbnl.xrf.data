@@ -1,4 +1,4 @@
-# LBNL Geochemical data for Andes obsidian sources and artifacts
+# LBNL Geochemical Data for Andes Obsidian Sources and Artifacts
 
 This is an R data package containing geochemical data for obsidian artifacts and sources located in Andean South America.  These data were generated using X-ray fluorescence at the Nuclear Archaeology Program at Lawrence Berkeley National Laboratory in collaboration with Richard Burger of Yale University.
 
