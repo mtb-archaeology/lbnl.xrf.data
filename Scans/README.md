@@ -1,51 +1,15 @@
 # LBNL Geochemical data for Andes obsidian sources and artifacts
 
-This is an R data package containing geochemical data for obsidian artifacts and sources located in Andean South America.  These data were generated using X-ray fluorescence at the Nuclear Archaeology Program at Lawrence Berkeley National Laboratory in collaboration with Richard Burger of Yale University.
+### Scanned prints of XRF data for South American obsidian artifacts	
+### Provided by N. Tripcevich and R. Burger
+### Scanned: July/August, 2020 MTB
+											
+Files contained in this directory are scans of the dot-matrix prints produced by the Archaeometry Group at the Lawrence Berkeley National Laboratory and sent to Richard Burger (Yale University).  The printouts contain data produced by X-ray fluorescence spectrometry on obsidian specimens from archaeological sites in South America.  These data are discussed in several publications by Burger and colleagues, including:
 
-## Description
+Burger, R. and F. Asaro (1977) Trace element analysis of obsidian artifacts from the Andes: new perspectives on pre-hispanic economic interaction in Peru and Bolivia. Report number: LBL-6343
+Burger, R. and F. Asaro (1993) La distribución y procedencia de artefactos de obsidiana durante el periodo inicial y horizonte temprano. In "Emergencia de la civilizacion en
+los Andes: ensayos de interpretación", edited by R. L. Burger, pp. 189-264. UNMSM, Lima.
+Burger, R., F. Asaro, and H. Michel. (1984) Appendix E: The source of the obsidian artifacts at Chavin de Huantar. In "The Prehistoric Occupation of Chavin de Huantar, Peru," R.L. Burger, pp. 263-270.
 
-This R data package contains X-ray fluorescence data generated from artifacts and source samples of obsidian collected from various sites and geological sources in Peru, Bolivia, and Ecuador.  These data were generated using X-ray fluorescence at the Nuclear Archaeology Program at Lawrence Berkeley National Laboratory (LBNL) in collaboration with Richard Burger of Yale University.  
+File names consist of the XRF "Run" number assigned by LBNL, with text designating whether the output if from the mid-Z assay (Fe, Cr, Mn, Ti, Ca, V, Zn, Cu, Pb, Rb, Sr, Y, Zr, Nb, Mo, Ni, K) or the high-Z assay (Sn, Ba, La, Ce).  Calculated elemental abundances are provided for each sample in a given assay.  Each page represents the calculated elemental abundance.  In order to properly scale these abundances to parts per million, they must be multiplied by one million x ten to the power of the exponent given at the end of each line of output (e.g., 1,000,000 X 10 ^ -5; 1,000,000 X 10 ^ -4).  Corresponding spreadsheets for each assay combine both the mid- and high-Z elements, and were produced by manually transcribing the data as given on the printouts and performing the scaling as indicated.  Thus, elemental abundances listed in the spreadsheets are given in PPM.
 
-Data were originally printed directly from the LBNL CDC 7600 mainframe.  In 2019, Burger provided copies of these printouts to Nico Tripcevich (University of California---Berkeley).  Tripcevich transferred them to Matthew T. Boulanger (Southern Methodist University) for integration into Boulanger's previous work on LBNL archaeometric data.  Boulanger transcribed data from these printouts to produce this data package.
-
-## Installing
-
-This data package can be downloaded directly from GitHub, or installed remotely through R using the following command:
-
-```
-remotes::install_github("mtb-archaeology/lbnl.xrf.data")
-```
-
-## How to Cite
-Users of this data package should cite it as follows:
-
-* Boulanger, Matthew T. and Nico Tripcevich. 2022. Geochemical Data for Andes Obsidian Sources and Artifacts (v 0.1).  Digital database.  Available at: https://github.com/mtb-archaeology/lbnl.xrf.data.  Accessed on: [ACCESS DATE]
-
-Users should also include citation to the relevant initial publication of these data, based on which samples and/or sources are used.  If in doubt, users should cite all of the following:
-
-[ADD REFERENCES]
-
-## Authors
-
-Contributors names and contact info
-
-Nico Tripcevich
-arf-labs@berkeley.edu
-[@MapAspects](https://twitter.com/MapAspects)
-
-Matthew T. Boulanger
-mboulanger@smu.edu
-[@MTB_Archaeology](https://twitter.com/MTB_Archaeology)
-
-## Version History
-
-* 0.1
-    * Initial Release
-
-## License
-
-This project is available for free under a [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license](https://creativecommons.org/licenses/by-nc/4.0/).
-
-## Acknowledgments
-
-These data would not exist if it were not for the work of Frank Asaro and Helen Michel, operators of the LBNL Nuclear Archaeometry Program, and their collaborators at LBNL.  
