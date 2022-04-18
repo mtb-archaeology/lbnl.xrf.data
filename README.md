@@ -38,19 +38,21 @@ The case of Formative Peru and Ecuador. In: *Social and Economic Organization in
 
 * [Burger, R.L., F. Asaro, H.V. Michel, F.H. Stross, and E. Salazar. 1994. An Initial Consideration of Obsidian Procurement and Exchange in Prehispanic Ecuador. *Latin American Antiquity* 5(3):228-255.](https://www.jstor.org/stable/971882)
 
-
+## Additional Information
+Additional information on the digitization process and on the accuracy and precision of these data may be found in the accompanying PDF file entitle "[Boulanger_Tripcevich_2022.pdf](https://github.com/mtb-archaeology/lbnl.xrf.data/blob/master/boulanger_tripcevich_2022.pdf)" accessible here.
 
 ## Authors
 
 Contributors names and contact info
 
+Matthew T. Boulanger
+mboulanger@smu.edu
+[@MTB_Archaeology](https://twitter.com/MTB_Archaeology)
+
 Nico Tripcevich
 arf-labs@berkeley.edu
 [@MapAspects](https://twitter.com/MapAspects)
 
-Matthew T. Boulanger
-mboulanger@smu.edu
-[@MTB_Archaeology](https://twitter.com/MTB_Archaeology)
 
 ## Version History
 
