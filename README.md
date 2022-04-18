@@ -65,4 +65,4 @@ This project is available for free under a [Creative Commons Attribution-NonComm
 
 ## Acknowledgments
 
-These data would not exist if it were not for the work of Frank Asaro and Helen Michel, operators of the LBNL Nuclear Archaeometry Program, and their collaborators at LBNL.  
+These data would not exist if it were not for Richard Burger and his numerous Andean colleagues, as well as for the work of Frank Asaro and Helen Michel, operators of the LBNL Nuclear Archaeometry Program, and their collaborators at LBNL.  
